@@ -1,6 +1,6 @@
 name: SocialButterly
 favicon: null
-layout_spectrum: 0.5148346000351012
+layout_spectrum: 1
 typography_spectrum: 0.00505672232247889
 title: Social Butterfly
 cta:
@@ -16,7 +16,12 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#f57f8b'
+    - '#ff00ff'
+    - '#ff0000'
+    - '#ffffff'
+    - '#ff55aa'
   brandStrength: 0.9462939570657909
   lightness: 0.7217509620822966
   saturation: 0.7835984395351261
