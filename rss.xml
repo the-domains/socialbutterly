@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Social Butterfly]]></title>
         <description><![CDATA[Social Butterfly]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/socialbutterly/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 17 Oct 2015 16:13:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 17 Oct 2015 16:24:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/socialbutterly/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Social Butterfly You Artistic Partner]]></title>
+            <description><![CDATA[<article><h1>Social Butterfly You Artistic Partner</h1><p>our pledge to you is to keep our prices in line with our workmanship and to give you our best work no matter the size of the job. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fbf8583b-7a93-40e9-a7f5-2db9646d2f0d.png"></article>]]></description>
+            <link>https://thegrid.ai/socialbutterly/social-butterfly-you-artistic-partner/index.html</link>
+            <guid isPermaLink="false">d80ae7e9-6366-430a-8295-60f0e5ab209a</guid>
+            <pubDate>Sat, 17 Oct 2015 16:24:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined9e37c356-385c-4dca-97a3-3cf511c718b6/index.html</link>
+            <link>https://thegrid.ai/socialbutterly/9e37c356-385c-4dca-97a3-3cf511c718b6/index.html</link>
             <guid isPermaLink="false">9e37c356-385c-4dca-97a3-3cf511c718b6</guid>
             <pubDate>Sat, 17 Oct 2015 16:12:26 GMT</pubDate>
         </item>
